@@ -1,0 +1,2 @@
+# MyMadness
+My project ideas
